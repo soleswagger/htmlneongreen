@@ -1,0 +1,21 @@
+table {
+    border:2px solid;
+}
+th {
+    border: 2px solid;
+    border-color: darkmagenta;
+}
+body {
+    color: deeppink;
+    background-color: chartreuse;
+}
+
+h2 {
+    font-family: Tahoma;
+}
+img {
+    width: 500px;
+    height: 250px;
+    border: 5px ;
+    border-color: cadetblue;
+}
